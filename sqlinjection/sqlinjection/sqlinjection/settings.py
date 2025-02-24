@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-4&vb-p1yck!_f0^oi#d4awv4o)^09e!6eguz$f9u_8&#f6j(g!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["sqlinjection-uwve.onrender.com"]
 
 
 # Application definition
